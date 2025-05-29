@@ -28,7 +28,6 @@
 
 - 📊 [Student Score Analysis](https://github.com/SairajMirajkar19300/Student-score-analysis)  
   *Analyzed student performance and assigned grades using Python & Pandas*
-- `sales_data_generated.csv`: Sample dataset
 
 (🆕 More projects coming soon as I grow my skills!)
 
