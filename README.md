@@ -6,19 +6,19 @@
 
 ---
 
-### 🔍 About Me
+###  About Me
 
-- 📍 Based in London | Open to relocate (UK, Europe, Dubai)
-- 💼 Currently learning **Python,Machine Learning, Pandas, Numpy, SQL, Excel, Data Visualization, Statistics and Probability**
-- 🧠 Passionate about **turning data into decisions**
-- 🎯 Career Goal: Work at top-tier companies like **Google, Amazon, or Netflix**
+-  Based in London | Open to relocate (UK, Europe, Dubai)
+- Currently learning **Python,Machine Learning, Pandas, Numpy, SQL, Excel, Data Visualization, Statistics and Probability**
+- Passionate about **turning data into decisions**
+- Career Goal: Work at top-tier companies like **Google, Amazon, or Netflix**
 
 ---
 
 ###  Skills
 
 - **Languages:** Python, SQL, HTML
-- **Data Tools:** Pandas, NumPy, Matplotlib, Excel, Google Sheets, Data Visualization
+- **Data Tools:** Machine learning Models, Pandas, NumPy, Matplotlib, Excel, Google Sheets, Data Visualization
 - **Platforms:** Google Colab, Jupyter Notebook, GitHub
 - **Other:** Git, VS Code, Forage Virtual Internships
 
